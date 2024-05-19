@@ -1,0 +1,17 @@
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\bin\Debug\2200_WozniakD_Participation03.exe.config
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\bin\Debug\2200_WozniakD_Participation03.exe
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\bin\Debug\2200_WozniakD_Participation03.pdb
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\2200_WozniakD_Participation03.csproj.AssemblyReference.cache
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\MainWindow.g.cs
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\App.g.cs
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\2200_WozniakD_Participation03_MarkupCompile.cache
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\2200_WozniakD_Participation03_MarkupCompile.lref
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\MainWindow.baml
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\2200_WozniakD_Participation03.g.resources
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\_2200_WozniakD_Participation03.Properties.Resources.resources
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\2200_WozniakD_Participation03.csproj.GenerateResource.cache
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\2200_WozniakD_Participation03.csproj.CoreCompileInputs.cache
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\2200_WozniakD_Participation03.exe
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\2200_WozniakD_Participation03.pdb
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\PlantDetailsWindow.g.cs
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation03\2200_WozniakD_Participation03\obj\Debug\PlantDetailsWindow.baml
