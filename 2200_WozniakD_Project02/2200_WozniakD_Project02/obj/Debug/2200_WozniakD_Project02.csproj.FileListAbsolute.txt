@@ -1,0 +1,17 @@
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\bin\Debug\2200_WozniakD_Project02.exe.config
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\bin\Debug\2200_WozniakD_Project02.exe
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\bin\Debug\2200_WozniakD_Project02.pdb
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\2200_WozniakD_Project02.csproj.AssemblyReference.cache
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\DetailWindow.g.cs
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\MainWindow.g.cs
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\App.g.cs
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\2200_WozniakD_Project02_MarkupCompile.cache
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\2200_WozniakD_Project02_MarkupCompile.lref
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\DetailWindow.baml
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\MainWindow.baml
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\2200_WozniakD_Project02.g.resources
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\_2200_WozniakD_Project02.Properties.Resources.resources
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\2200_WozniakD_Project02.csproj.GenerateResource.cache
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\2200_WozniakD_Project02.csproj.CoreCompileInputs.cache
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\2200_WozniakD_Project02.exe
+C:\Users\dwoz1\source\repos\2200_WozniakD_Project02\2200_WozniakD_Project02\obj\Debug\2200_WozniakD_Project02.pdb
