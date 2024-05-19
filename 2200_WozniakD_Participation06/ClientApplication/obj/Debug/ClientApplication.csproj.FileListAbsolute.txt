@@ -1,0 +1,10 @@
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation06\ClientApplication\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation06\ClientApplication\obj\Debug\ClientApplication.ClientForm.resources
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation06\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation06\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation06\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation06\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation06\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation06\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation06\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\dwoz1\source\repos\2200_WozniakD_Participation06\ClientApplication\obj\Debug\ClientApplication.pdb
